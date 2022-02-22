@@ -1,0 +1,18 @@
+.summary {
+    width: 100%;
+    z-index: 2;
+    margin: 16px auto;
+}
+
+.card {
+    padding: 16px 16px 16px 32px;
+    margin-top: -65px;
+    margin-bottom: -17px;
+    background-color: white;
+    border-bottom: 2px solid #ccc;
+}
+
+.summary h2 {
+    font-size: 32px;
+    margin-top: 0;
+}

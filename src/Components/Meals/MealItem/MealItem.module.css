@@ -1,0 +1,35 @@
+.meal {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    border-bottom: 1px solid #ccc;
+    margin-left: -20px;
+}
+
+.meal img{
+    margin: 15px;
+    border-radius: 50%;
+    width: 7%;    
+    height: auto;    
+    border: 2px solid  #1ca15a;
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.20);
+}
+  
+.meal h3 {
+    margin: 10px 0 4px 0;
+    font-size: 17px;
+}
+  
+.desc {
+    margin-top: -2px;
+    color: #a5b1c2;
+    width: 75%;
+    font-size: 13px;
+}
+  
+.price {
+    margin-top: 8px;
+    margin-bottom: 10px;
+    color: #778ca3;
+    font-size: 17px;
+}
