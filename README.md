@@ -1,4 +1,4 @@
-# Projeto de uma Carrinho de Compras num app de comida
+# Projeto de um Carrinho de Compras num app de comida
 REACT THE COMPLETE GUIDE by Maximilian Schwarzmuller
 
 O objetivo deste projeto foi: <br />
