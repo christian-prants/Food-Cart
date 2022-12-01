@@ -1,9 +1,7 @@
-# Projeto de um Carrinho de Compras num app de comida
-REACT THE COMPLETE GUIDE by Maximilian Schwarzmuller
+# Carrinho de compras para delivery
 
-O objetivo deste projeto foi: <br />
+A aplicação consiste em uma página de restaurante para pedidos, com diversas opções para serem selecionadas e uma função de carrinho para manter os itens e realizar o cálculo do quanto deverá ser pago.
 
-Compreender o uso do useContext; <br />
-Compreender o uso do useEffect; <br />
-Compreender o uso do useReducer; <br />
-Compreender o uso do Provider. <br />
+## Preview
+
+<img src="src/Gifs/foodapp.gif" height=200 />
